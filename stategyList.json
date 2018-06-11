@@ -1,0 +1,212 @@
+{
+    "status": 0,
+    "msg": "成功",
+    "image":"http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-2_2.jpg",
+    "description":"简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介简简简介",
+    "articleSubject": [
+        {
+            "imageUrl": "http://www1.pchouse.com.cn/yusuan-banner1.jpg",
+            "title": "装修不想乱花钱，做好这些预算统筹",
+            "url": "http://www.pchouse.com.cn/221/zt2218215.html"
+        },
+        {
+            "imageUrl": "http://www1.pchouse.com.cn/bikeng-banner1.jpg",
+            "title": " 装修小白？别担心！避坑妙招来帮你",
+            "url": "http://www.pchouse.com.cn/221/zt2218175.html"
+        },
+        {
+            "imageUrl": "http://www1.pchouse.com.cn/shuidian-banner1.jpg",
+            "title": "水电改造之你不能忽略系列",
+            "url": "http://www.pchouse.com.cn/222/zt2222056.html"
+        }
+    ],
+    "mustRead":[
+        {
+            "type": 1,
+            "id": 2215779,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-2_2.jpg",
+            "title": "可能是最全的100种客厅布局方案",
+            "articleUrl": "http://m.pchouse.com.cn/x/221/2215779.html",
+            "userName": "U家工场",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/31/08/46553108_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553108
+        },
+        {
+            "type": 1,
+            "id": 2227455,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/peise/1806/690-1..jpg",
+            "title": "大胆改造家！撞色空间的跳跃生活",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2227455.html",
+            "userName": "四川欢乐佳园装饰",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/94/46553094_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553094
+        },
+        {
+            "type": 1,
+            "id": 2208236,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-2_1.jpg",
+            "title": "做一面黑板墙，给家留一块想象空间",
+            "articleUrl": "http://m.pchouse.com.cn/x/220/2208236.html",
+            "userName": "合肥飞墨设计",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/31/23/46553123_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553123
+        },
+        {
+            "type": 1,
+            "id": 2227495,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/3/1806/690-1.jpg",
+            "title": "干货︱窗帘选不对，家里搭配全浪费",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2227495.html",
+            "userName": "缔趣家",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/97/46553097_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553097
+        }
+    ],
+    "all": [
+        {
+            "type": 1,
+            "id": 2215779,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-2_2.jpg",
+            "title": "可能是最全的100种客厅布局方案",
+            "articleUrl": "http://m.pchouse.com.cn/x/221/2215779.html",
+            "userName": "U家工场",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/31/08/46553108_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553108
+        },
+        {
+            "type": 1,
+            "id": 2227455,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/peise/1806/690-1..jpg",
+            "title": "大胆改造家！撞色空间的跳跃生活",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2227455.html",
+            "userName": "四川欢乐佳园装饰",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/94/46553094_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553094
+        },
+        {
+            "type": 1,
+            "id": 2208236,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-2_1.jpg",
+            "title": "做一面黑板墙，给家留一块想象空间",
+            "articleUrl": "http://m.pchouse.com.cn/x/220/2208236.html",
+            "userName": "合肥飞墨设计",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/31/23/46553123_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553123
+        },
+        {
+            "type": 1,
+            "id": 2227495,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/3/1806/690-1.jpg",
+            "title": "干货︱窗帘选不对，家里搭配全浪费",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2227495.html",
+            "userName": "缔趣家",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/97/46553097_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553097
+        },
+        {
+            "type": 1,
+            "id": 2227475,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/yusuan/1806/690-1.jpg",
+            "title": "3分钟看懂报价清单，装修千万不能算糊涂账！",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2227475.html",
+            "userName": "小V装饰",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/31/05/46553105_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553105
+        },
+        {
+            "type": 1,
+            "id": 2224495,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-2.jpg",
+            "title": "细节控必看：时尚吊顶是这样炼成的",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2224495.html",
+            "userName": "四川欢乐佳园装饰",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/94/46553094_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553094
+        },
+        {
+            "type": 1,
+            "id": 2226467,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/changdiding/1806/690-1_1.jpg",
+            "title": "面积小、层高低！怎样才能缓解压迫感？",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2226467.html",
+            "userName": "草三冉CSR",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/62/46553062_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553062
+        },
+        {
+            "type": 1,
+            "id": 2226575,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/liucheng/1806/690-2.jpg",
+            "title": "看懂这16点施工验收细节，自己可以做监理",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2226575.html",
+            "userName": "JORYA玖雅",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/84/46553084_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553084
+        },
+        {
+            "type": 1,
+            "id": 2205439,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/kongjian/1805/690-1_6.jpg",
+            "title": "生活从不需要“爆改”，精装房改造的折衷艺术",
+            "articleUrl": "http://m.pchouse.com.cn/x/220/2205439.html",
+            "userName": "家居设计",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/31/28/46553128_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553128
+        },
+        {
+            "type": 1,
+            "id": 2224858,
+            "imageUrl": "http://img0.pchouse.com.cn/pchouse/app/gonglue/menchuang/1805/690-2_1.jpg",
+            "title": "超火的谷仓门，你家要不要来一个？",
+            "articleUrl": "http://m.pchouse.com.cn/x/222/2224858.html",
+            "userName": "四川欢乐佳园装饰",
+            "talentsName": "",
+            "userImage": "http://i1.3conline.com/images/upload/upc/face/46/55/30/94/46553094_120X120",
+            "isDesigner": 0,
+            "isTalent": 0,
+            "userId": 46553094
+        }
+    ],
+    "total": 98,
+    "pageNo": 1,
+    "pageSize": 10
+}
